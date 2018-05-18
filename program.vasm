@@ -1,0 +1,2 @@
+MAIN:   MOV 3 A
+        PUSH A
